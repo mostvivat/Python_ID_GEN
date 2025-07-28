@@ -1,4 +1,4 @@
-## ID Card Number Generator (GUI) for generate my test data 
+## ID Test Data Generator (GUI)
 
 This is a simple Python GUI application that generates **valid ID card numbers** using the correct 13-digit format with a checksum. Built with `Tkinter`, this tool is useful for developers, testers, or anyone needing mock ID data.
 
